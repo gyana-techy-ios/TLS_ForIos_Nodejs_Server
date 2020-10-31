@@ -1,0 +1,23 @@
+{
+  "name": "robotinfo",
+  "version": "1.0.0",
+  "description": "robot testing using socket program",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyana prakash gouda",
+  "license": "ISC",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "aes256": "^1.0.4",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "image-compressor": "^2.0.3",
+    "node-forge": "^0.9.1",
+    "node-rsa": "^1.0.8",
+    "path": "^0.12.7",
+    "socket.io": "^2.3.0",
+    "websocket": "^1.0.31"
+  }
+}
